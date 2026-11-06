@@ -1,0 +1,6 @@
+# Mac clutter
+.DS_Store
+# Word / Excel temporary lock files
+~$*
+# MATLAB autosave files
+*.asv
